@@ -10,4 +10,4 @@ Preview
 
 | Recipe Details |
 |................|
-|![Recipe details Screenshot](./images/ss3.jpg) 
+|![Recipe details Screenshot](./images/ss3.jpg) |
