@@ -1,8 +1,9 @@
-Recipe Finder App
+🍳 Recipe Finder App
 
 A simple React + TailwindCSS project that lets users search for recipes using the TheMealDB API.
 
-Preview
+
+🖼️ Preview
 
 | Home Page | Search Results |
 |------------|----------------|
@@ -12,7 +13,8 @@ Preview
 |-----------------------|---------------------|
 |![Recipe details Screenshot](./images/ss3.jpg) | ![Random Recipe details Screenshot](./images/ss4.jpg) |
 
-Features
+
+🧩 Features
 
 -Fetch random recipe on homepage
 
@@ -25,7 +27,7 @@ Features
 -Clean routing using react-router-dom
 
 
-Tech Stack
+⚙️ Tech Stack
 
 -VsCode
 
@@ -35,15 +37,16 @@ Tech Stack
 
 -TheMealDB API
 
-Installation & Setup
+
+🚀 Installation & Setup
 
 Follow these steps to run the project locally:
 
-1 Clone the repository
+1️⃣ Clone the repository
 git clone https://github.com/Arya2809/Recipe-Finder.git
 cd recipe-finder
 
-2 Install dependencies
+2️⃣ Install dependencies
 
 Make sure you have Node.js and npm installed.
 
@@ -51,7 +54,7 @@ Then, run:
 
 npm install
 
-3 Install Tailwind CSS
+3️ Install Tailwind CSS
 
 If not already configured, run:
 
@@ -70,13 +73,14 @@ In your src/index.css, include:
 @tailwind components;
 @tailwind utilities;
 
-4 Start the development server
+4️⃣ Start the development server
 
 npm start
 
 The app will run on http://localhost:3000
 
-API Reference
+
+🌐 API Reference
 
 This project uses the TheMealDB API for fetching recipes.
 
@@ -86,7 +90,8 @@ Random recipe: https://www.themealdb.com/api/json/v1/1/random.php
 
 Search recipe: https://www.themealdb.com/api/json/v1/1/search.php?s=<meal>
 
-Challenges Faced
+
+🧠 Challenges Faced
 
 Understanding API structure and dynamic rendering of data
 
@@ -95,7 +100,7 @@ Managing asynchronous fetch calls
 Designing a responsive layout using Tailwind
 
 
-Future Improvements
+💡 Future Improvements
 
 Save favorite recipes
 
