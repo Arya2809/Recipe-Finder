@@ -1,2 +1,3 @@
-# Recipe-Finder
-Explore food  items, find your recipes, checkout the ingredients and methods
+Recipe Finder App
+
+A simple React + TailwindCSS project that lets users search for recipes using the TheMealDB API.
